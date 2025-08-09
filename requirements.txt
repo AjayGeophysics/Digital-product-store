@@ -1,0 +1,2 @@
+# No runtime dependencies — static site.
+# Open index.html in a modern browser; internet required for Tailwind CDN and images.
